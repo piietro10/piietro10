@@ -1,11 +1,27 @@
 # 👋 Olá, eu sou o Matheus Pietro!
 
-💻 Estudante de programação no **IFSP - Campus São Miguel Paulista (SMP)**   
+💻 Estudante de programação no **IFSP - Campus São Miguel Paulista (SMP)**  
+🧠 Interessado em UI/Motion Design  
 🚀 Sempre em busca de aprender e criar projetos criativos  
 
 ---
 
-## 🔧 Tecnologias que uso
+## 🌐 Minhas redes sociais
+<div>
+  <a href="https://www.instagram.com/SeuInstagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SeuLinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SeuEmail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 👨‍💻 Tecnologias que utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -15,16 +31,12 @@
 ---
 
 ## 📊 Minhas estatísticas no GitHub
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
 
 ---
 
 ## 🎯 Sobre mim
 - 🔭 Atualmente estudando **PHP, HTML e CSS**  
-- 🎓 Estudante no **IFSP - Campus São Miguel Paulista (SMP)**  
-- 🎨 Quero unir programação e design para criar interfaces únicas  
-- ⚡ Se um limão cai na sua cabeça faça uma limonada
-
----
+- 🎓 Cursando no **IFSP - Campus São Miguel Paulista (SMP)**  

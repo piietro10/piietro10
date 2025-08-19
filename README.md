@@ -28,8 +28,3 @@
 - ⚡ Se um limão cai na sua cabeça faça uma limonada
 
 ---
-
-## 🐍 Contribuições
-![Snake animation](https://github.com/SeuUsuario/SeuUsuario/blob/output/github-contribution-grid-snake.svg)
-
----

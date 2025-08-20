@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Matheus Pietro!
 
-📘 Atualmente cursando o 3°ano do Ensino Médio no Instituto Federal de São Paulo Campus São Miguel Paulista 
+📘 Atualmente cursando o 3°ano do Ensino Médio no **IFSP - Campus São Miguel Paulista (SMP)**
 
-💻 Estudante de programação no **IFSP - Campus São Miguel Paulista (SMP)**    
+💻 Curso: Informática Para Internet 
 
 ---
 

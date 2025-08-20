@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Matheus Pietro!
+8# 👋 Olá, eu sou o Matheus Pietro!
 
 📘 Atualmente cursando o 3°ano do Ensino Médio no **IFSP - Campus São Miguel Paulista (SMP)**
 
@@ -38,5 +38,5 @@
 ---
 
 ## 🎯 Sobre mim
-- 🔭 Atualmente estudando **PHP, HTML e CSS**  
+- 🔭 Atualmente estudando **PHP, HTML, CSS e MySQL**  
 - 🎓 Cursando no **IFSP - Campus São Miguel Paulista (SMP)**  

@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Matheus Pietro!
 
-💻 Estudante de programação no **IFSP - Campus São Miguel Paulista (SMP)**  
-🧠 Interessado em UI/Motion Design  
-🚀 Sempre em busca de aprender e criar projetos criativos  
+📘 Atualmente cursando o 3°ano do Ensino Médio no Instituto Federal de São Paulo Campus São Miguel Paulista 
+💻 Estudante de programação no **IFSP - Campus São Miguel Paulista (SMP)**    
 
 ---
 

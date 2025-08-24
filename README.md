@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/matheus-pietro-do-carmo-silva" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="malito:matheuspietrocs2007@gmail.com" target="_blank">
+  <a href="mailto:matheuspietrocs2007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
